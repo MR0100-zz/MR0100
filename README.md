@@ -4,7 +4,7 @@
 
 ### I'm Work On
 ```
-- FLUTTER ~ Hight Priority
+- FLUTTER ~ High Priority
 - DART
 - NODE.JS ~ API only
 - PHP / CODEIGNITER
