@@ -2,32 +2,32 @@
 
 
 
-### Work On
+### I'm Work On
 ```
 - FLUTTER ~ Hight Priority
 - DART
 - NODE.JS ~ API only
 - PHP / CODEIGNITER
 ```
-### Database
+### I know Database
 ```
 - MySQL
 - MongoDB
 - Firebase
 ```
-### Learning
+### I'm Learning
 ```
 - AngularDart
 - Dart ~ ServerSide
 - PostgreSQL ~ Database
 ```
-### Ask Me About
+### Ask Me About Anytime
 ```
 - FLUTTER
 - PHP / CODEIGNITOR
 ```
 
-### Contact
+### Contact Me
 
 <img src="http://img.shields.io/badge/Gmail-mr.vaghasiya197@gmail.com-red?style=for-the-badge&logo=Gmail">
 <img src="http://img.shields.io/badge/Twitter-@__MR__0100-red?style=for-the-badge&logo=Twitter">
