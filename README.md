@@ -30,7 +30,8 @@
 
 ### Contact Me
 
-<img src="http://img.shields.io/badge/Gmail-mr.vaghasiya197@gmail.com-red?style=for-the-badge&logo=Gmail">
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="http://img.shields.io/badge/Gmail-mr.vaghasiya197@gmail.com-red?style=for-the-badge&logo=Gmail"></a>
+
 <img src="http://img.shields.io/badge/Twitter-@__MR__0100-red?style=for-the-badge&logo=Twitter">
 <img src="http://img.shields.io/badge/Instagram-mr__vaghasiya__0100-red?style=for-the-badge&logo=Instagram">
 
