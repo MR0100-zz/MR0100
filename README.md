@@ -44,6 +44,7 @@
 ### Contact Me
 
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="http://img.shields.io/badge/Gmail-mr.vaghasiya197@gmail.com-red?style=for-the-badge&logo=Gmail"></a>
+
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="http://img.shields.io/badge/Gmail-mr.vaghasiya.business197@gmail.com-red?style=for-the-badge&logo=Gmail"></a>
 
 <a href="https://twitter.com/_MR_0100"><img src="http://img.shields.io/badge/Twitter-@__MR__0100-red?style=for-the-badge&logo=Twitter"></a>
