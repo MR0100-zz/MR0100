@@ -15,6 +15,7 @@
 - ANDROID
 - IOS
 - DART
+- UX/UI
 
 - NODE.JS ~ API only
 - PHP / CODEIGNITER
