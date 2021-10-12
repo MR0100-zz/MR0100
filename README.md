@@ -50,7 +50,6 @@
 
 <a href="https://twitter.com/_MR_0100"><img src="http://img.shields.io/badge/Twitter-@__MR__0100-red?style=for-the-badge&logo=Twitter"></a>
 
-<a href="https://www.instagram.com/mr_vaghasiya_0100/"><img src="http://img.shields.io/badge/Instagram-mr__vaghasiya__0100-red?style=for-the-badge&logo=Instagram"></a>
 
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR0100&theme=dark&hide_langs_below=1&layout=compact" /><img height="190" src="https://github-readme-stats.vercel.app/api?username=MR0100&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
