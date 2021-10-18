@@ -11,14 +11,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 ```
-- FLUTTER ~ High Priority
+- FLUTTER - ANDROID / IOS / WEB
+- DART - SOCKET / APIS
 - ANDROID
 - IOS
-- DART
-- UX/UI
+- UI/UX
 
-- NODE.JS ~ API only
-- PHP / CODEIGNITER
+- NODE.JS 
+- PHP / CODEIGNITER - WEB / APIS
 ```
 ### I know Database
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -28,6 +28,8 @@
 - MySQL
 - MongoDB
 - Firebase
+- SQFlite
+- Hive
 ```
 ### I'm Learning
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -35,7 +37,7 @@
 - Dart ~ ServerSide
 - PostgreSQL ~ Database
 ```
-### Ask Me About Anytime
+### Ask Me Anytime About
 ```
 - FLUTTER
 - DART
